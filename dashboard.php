@@ -1,7 +1,7 @@
 <?php 
 	$currentPage = 'Dashboard';
 	$title = 'Dashboard';
-	$pageTitle = 'Add staff'
+	$pageTitle = 'Add staff';
 	include ('layouts/header.php');
  ?>
 <?php include('layouts/sidebar.php'); ?>
